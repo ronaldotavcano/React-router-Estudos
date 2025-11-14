@@ -5,6 +5,7 @@ export function Home(){
 
             <nav>
                 <a href="/products">Produtos</a>
+                <a href="/products?category=tvs&price=2000">Categoria</a>
             </nav>
         </div>
     )
